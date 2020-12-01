@@ -11,5 +11,5 @@ __12/1/2020__
     Specificity helps this by determining which rules should be applied in the event that you do this.
 ## What problems might we run into if over-utilizing the !important feature?
     !important is a declaration that overrides other declarations.
-    When we write in CSS it reads from top to bottom.
+    When we write in CSS it reads from top to bottom. Therefore, writing !important at the bottom would override the above code.
     If !important is used too often in it could override all of our style declarations, showing up where it may not be intended.
