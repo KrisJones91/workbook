@@ -11,5 +11,5 @@ __11/20/2020__
      - a team of developers can create a "test" branch 
 
 ## Difference between Git and GitHub? 
-
+    GitHub is a cloud-based hosting service that helps you manage your projects that use Git. Simply, Git allows you to keep track of your source code history, while GitHub allows you to manage your Git repositories.
 
