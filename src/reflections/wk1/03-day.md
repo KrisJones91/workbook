@@ -2,7 +2,9 @@
 __12/2/2020__
 
 ## My FAVORITE tip that is the most beneficial to improving design.
-    My favorite tip is that "Not every button needs a background color." In most cases, I feel that adding a background color to buttons would seem like a go-to. However, to demonstrate the heirarchy of the buttons, adding color to some and no color to others adds demensions to the page without doing too much.
+    My favorite tip is that "Not every button needs a background color." 
+    In most cases, I feel that adding a background color to buttons would seem like a go-to.
+    However, to demonstrate the heirarchy of the buttons, adding color to some and no color to others adds demensions to the page without doing too much.
 
 ## A couple resources that might be helpful when trying to review examples of good design.
     1. "Use a Box Shadow"
