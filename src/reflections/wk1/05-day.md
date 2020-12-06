@@ -9,4 +9,3 @@ __12/4/20__
     Coding is not simple by any means but it is definitely made easier with the way we are taught.
     I feel like I could use some work on the command line and understanding Bootstrap terms/where to appropriately use keywords.
     That I think will come with practice just like other concepts presented to us.
-
