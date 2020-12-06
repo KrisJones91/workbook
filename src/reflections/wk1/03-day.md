@@ -7,13 +7,11 @@ __12/2/2020__
     However, to demonstrate the heirarchy of the buttons, adding color to some and no color to others adds demensions to the page without doing too much.
 
 ## A couple resources that might be helpful when trying to review examples of good design.
-    1. "Use a Box Shadow"
-        - They can be subtle
-        - Can be used instead of outlines
-        - Accomplished without being distracting
-    2. "Use two different background colors"
-        - Can remove borders since both backgrounds are noticeably different.
-        - Creates a meaningful distinction between two different areas.
+    https://www.wix.com/blog/2017/10/5-design-tips-for-a-professional-site
+    https://www.lyfemarketing.com/blog/web-design-tips/
+    These sites give quick tips to help you make better decisions when designing a webpage.
+
+  
 
 ## How I think good designs influence people when visiting a website. What can we convey solely through design?
     I think a good design, in most cases, makes a website easier for a user to navigate. 
