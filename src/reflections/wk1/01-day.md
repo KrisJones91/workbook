@@ -2,14 +2,13 @@
 __11/20/2020__
 
 ## Why do we use Git?
-    Git helps developers in many ways. One way that Git helps developers is that it allows them to go back to an older version of the code they have been working on. Git is also extremely helpful in that it helps developers make sure that there aren't any coding conflicts within their project.
+   We use Git to help us keep track of our code history. Git can store code on a server AND local storage, making it really helpful for group work because each developer can access the code with their own computer.
 
 ## Benefits to using multiple branches?
-    Some of the key benefits to utilizing multiple branches are as follows:
-     - They are necessary to support multiple projects, being worked on in parallel by developers
-     - branches of code can be merged using git merge
-     - a team of developers can create a "test" branch 
+    It's beneficial because we are able to work alongside other developers working on the same project.
+    When utilizing mutliple branches, you can work on separate parts of the project and merge those parts later.
 
 ## Difference between Git and GitHub? 
-    GitHub is a cloud-based hosting service that helps you manage your projects that use Git. Simply, Git allows you to keep track of your source code history, while GitHub allows you to manage your Git repositories.
+    Git is used to store code while GitHub is used to store Git repositories. 
+    Github is essentially a place (or hub) that makes dealing with Git repositories easier.
 
