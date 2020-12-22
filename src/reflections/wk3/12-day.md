@@ -6,4 +6,4 @@ The purpose of Encapsulation is to keep private data private. To keep that data 
 ## What were some of the problems with closures and the underscore prefix?
 Some developers use the underscore prefix method instead of using closures to indicate a private property or method. This could create problems with new developers not fully understanding the purpose of the underscore prefix and using it anyway. Also, using only the underscore method leaves you prone to relying on others knowing what it means and that you intend on that specific thing being private.
 ## How do we create private variables in a ES6 Class? Why would you do this?
-We create a Proxy Object to create private variables. These are used to limit the accessibility of the properties we choose.
+We use closure-based encapsulation to create private variables in ES6. We would do this to prevent external use of data and/or methods that we intend only to be used internally.
