@@ -7,6 +7,6 @@
   - [My Github](https://github.com)
   - [Portfolio](https://github.com)
 ## Contact
-  - Phone: 123-456-7890
-  - Email: student@student.com
+  - Phone: 765-413-7724
+  - Email: kristop.jones@gmail.com
   
