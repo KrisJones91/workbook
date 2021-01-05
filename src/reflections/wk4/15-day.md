@@ -9,3 +9,6 @@ Some signs or causes include poor coding practices, such as not naming functions
 "Keeping code shallow" is the first way to avoid/fix Callback Hell. It's important to name functions opposed to having anonymous functions floating around. Also, we can rely on "function hoisting" so we're able to move defined functions to the bottom of the file to help organize the code.
 "Modularize" is essentially the act of creating libraries for code that can be reused anywhere and doesn't require duplicating code everytime we want to use it. We can create the code in one file, export the file, and import it for use wherever we see fit.
 "Handle every single error" is about always expecting an error because we never know when/where they will occur. It's about not ignoring our errors (because they will happen) but planning ahead as if we expect them to happen. 
+
+## Afternoon Challenge
+https://krisjones91.github.io/questions/
