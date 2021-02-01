@@ -35,15 +35,15 @@ v-model is used for two-way data binding. You could use this in an input tag for
 **7.** Which Vue attributes(directives) could you use to conditionally render elements on a page?
 <!-- enter you answer in the space below -->
 ```
-
+v-if, v-else, v-else-if
 ```
 **8.** What is the purpose of the `key` attribute when using `v-for` on an element?
 <!-- enter you answer in the space below -->
 ```
-
+it provides Vue access to watch items in the array for change
 ```
 **9.** What is the `<slot>` element and what is it used for?
 <!-- enter you answer in the space below -->
 ```
-
+<slot> is an outlet for content to be distributed. It allows you to created components without parent-child relationship.
 ```
