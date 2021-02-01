@@ -4,6 +4,6 @@ __1/28/21__
 ## Which principles from this weeks reading did you implement?
 This week my partner and I implemented the pair programming principle and the UX principle. We heavily focused on the UX because we wanted our users to be able to navigate our website easily and find use of the Trello-style task manager.
 ## What went well?
-The backend of our application went smoothly. Originally we thought it would be our downfall, however, we worked well together developing our server up and running. 
+When one of the group members was in the "driver" seat, they spoke the code outloud, taking feedback and ideas from the other teammates. That was nice to be around. If someone in the group was confused by something or needed additional support as to why something was written or how to structure the code, we took the time to help that person/eachother. We made sure that everyone was on the same page and that helped our team work as a cohesive unit.
 ## What would you do differently?
-I would have liked to have switched roles with my partner more often. I would have also liked to speak our code out loud more often. When the "driver" would code, more often than not speaking out loud was non-existent and the person in the navigator role would be lost once we actually did switch. This created frustration and could have been avoided with more communication.
+I would have liked to switch roles more often. I also would have liked to be a part of the group when they were creating the backend code. That would have been a good learning experience. Overall, however, I wouldn't have done much differently. Justin and Steffen were great partners to have.
