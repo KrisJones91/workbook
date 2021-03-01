@@ -9,3 +9,6 @@ Member inheritance is when a child class inherits properties from it's parent cl
 
 ## How does accessibility affect inheritance?
 Visibiliy of members affects it's accessibility. For Private Members, inheritance can be difficult due to the level of protection. In this case they can only be inherited by the child when it is nested in the parent.
+
+## Afternoon Challenge
+https://krisjones91.github.io/vacay/

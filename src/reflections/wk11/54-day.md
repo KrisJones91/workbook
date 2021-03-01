@@ -13,3 +13,6 @@ FROM doctors do,
 JOIN patients pa ON do.patientId = pa.id
 WHERE id = @id
 
+## Afternoon Challenge
+https://krisjones91.github.io/flowershop/
+
